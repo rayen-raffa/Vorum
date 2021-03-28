@@ -5,8 +5,8 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-const name = 'Hi'
-const hola = 'Hola'
+const name = 'Hi';
+const hi = 'Hola';
 export default {
   name: 'App',
   components: {
